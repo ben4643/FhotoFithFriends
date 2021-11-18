@@ -11,5 +11,3 @@ public class FhotoFithFriendsApplicationController {
 	}
 
 }
-
-//Added a controller since it was missing

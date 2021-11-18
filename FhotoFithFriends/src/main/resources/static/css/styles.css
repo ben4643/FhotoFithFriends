@@ -1,0 +1,13 @@
+#home-screen {
+  border: 1px solid black;
+}
+
+#title {
+  margin: 15px 5px 10px 15px;
+}
+
+#stuff {
+  margin: 30px 5px 30px 20px;
+  color: blue;
+  font-size: large;
+}
