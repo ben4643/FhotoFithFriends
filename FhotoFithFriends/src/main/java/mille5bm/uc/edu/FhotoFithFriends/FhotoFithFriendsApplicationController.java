@@ -10,4 +10,8 @@ public class FhotoFithFriendsApplicationController {
 		return "index";
 	}
 
+	@RequestMapping("/home")
+	public String start1() {
+		return "Home";
+	}
 }
